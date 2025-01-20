@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "431769017748",
+    "project_id": "filmizlemeuygulamasi",
+    "storage_bucket": "filmizlemeuygulamasi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431769017748:android:2b1d168068095ab7b8c381",
+        "android_client_info": {
+          "package_name": "com.mobilproje.filmizlemeuygulamasi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtO0vwae1vECjN-0RaM00r4azewkgwMfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
